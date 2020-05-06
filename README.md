@@ -1,14 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
- Big Plant
+ Image Comparison Slider
 </h1>
 
 ## 🧐 What's inside?
 
-Big Human Front End Developer Code Test
+Image Comparison Slider Using HTML CSS & JS
 
-![Alt text](/assets/screen_1.png "Title")
+![0% slider](/assets/screen_1.png "0%")
 
-![Alt text](/assets/screen_2.png "Title")
+![50% slider](/assets/screen_2.png "50%")
 
-![Alt text](/assets/screen_3.png "Title")
+![100% slider](/assets/screen_3.png "100%")
